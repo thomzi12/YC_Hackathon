@@ -1,2 +1,5 @@
-# YC_Hackathon
-4.14.2018 YC Hackathon Repository for my code 
+# Open Sesame 
+
+Chrome extension that's MoviePass for online publication. One subscription to rule them all. 
+
+Learn more about the April hackathon [here](https://apply.ycombinator.com/events/167). 
